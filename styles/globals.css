@@ -1,1 +1,1 @@
-
+@tailwind base;\n@tailwind components;\n@tailwind utilities;\nhtml, body, #__next { height: 100%; }\nbody { font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
